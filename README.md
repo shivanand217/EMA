@@ -1,5 +1,7 @@
 
-# Mean Stack Based application
+# MEAN Stack Based application 
+
+Angular2 for frontend and Mongoose to connect to MONGODB client.
 
 Features include :-
 
